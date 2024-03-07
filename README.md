@@ -1,0 +1,2 @@
+# ZazaBugga
+Tea testnet
